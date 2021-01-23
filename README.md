@@ -25,12 +25,12 @@
 4. Circular doubly linked list implementation 
 5. Stack implementation using linked list
 6. Queue implementation using linked list
-*Each linked list program contains functions like Insertion, Deletion, Inserting at head, Deleting given element node, Displaying, Reversing the list, Sorting the elements and Swapping given two nodes.
+**Each linked list program contains functions like Insertion, Deletion, Inserting at head, Deleting given element node, Displaying, Reversing the list, Sorting the elements and Swapping given two nodes.**
 # Trees folder contains C code for trees data structure like 
 1. Tree implementation 
 2. Binary search tree implementation 
 3. Tree traversals 
-*Each tree program has functions like Insertion, Deleting given element node, Searching for an element, Counting number of nodes and Printing. Tree traversal code contains Pre-Order, In-Order and Post-Order traversals.
+**Each tree program has functions like Insertion, Deleting given element node, Searching for an element, Counting number of nodes and Printing. Tree traversal code contains Pre-Order, In-Order and Post-Order traversals.**
 # Sortting folder contains C code for sorting algorithms like 
 1. Bubble sort  
 2. Selection sort
